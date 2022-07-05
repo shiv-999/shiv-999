@@ -1,16 +1,8 @@
- 🌱 I’m currently learning Java✨
-
-<!--
-**shiv-999/shiv-999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
--
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+ Shivam is a Java programmer, Information Technology student at the SGGS College of Nanded in India. He likes learning new languages ,operating systems, disruptive innovation and cricket🏏. In his spare time, Shivam enjoys talking with Nature 🌱, traveling to new places, and thinking about the answer to Life.
+- 🌱 I’m currently learning Java✨
+- 🔭 I’m currently working on college Projects 
+- 🤔 I’m looking for help with daily Bugs🐛 
+- 💬 Ask me about Java and OS
+- 📫 How to reach me:  
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: Love to teach but never Tried😄

@@ -1,6 +1,6 @@
 ## Hi, I'm Shivam 👋
 
-I'm an independent web developer in Pune, India. I build and fix websites for small businesses and startups: React front ends, responsive landing pages, WordPress sites and small Python automations.
+I'm a software developer in Pune, India with nearly three years of professional experience in .NET/C#, Java and SQL. As an independent developer I build and fix websites for small businesses and startups: React front ends, responsive landing pages, WordPress sites and small Python automations.
 
 I like clearly scoped work, clean code that the next person can understand, and keeping clients in the loop in plain language.
 
@@ -26,6 +26,10 @@ I like clearly scoped work, clean code that the next person can understand, and 
 
 ### Tools I use
 
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
